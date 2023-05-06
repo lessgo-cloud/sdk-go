@@ -1,1 +1,4 @@
+# vendors
 vendor
+examples/hello-world/vendor/
+examples/events/vendor/
