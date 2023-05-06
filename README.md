@@ -6,7 +6,7 @@ golang sdk for lessgo
 ## Example
 
 * [hello world](./examples/hello-world/)
-* [events](./exmaples/events)
+* [events](./examples/events)
 
 
 
